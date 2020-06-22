@@ -1,4 +1,6 @@
 ## ReProvision
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FDaddycal69%2FReProvision.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FDaddycal69%2FReProvision?ref=badge_shield)
+
 
 This project provides automatic re-provisioning of iOS and tvOS applications to avoid the 7-day expiration associated with free certificates, along with a macOS application to manually provision a given `.ipa` file.
 
@@ -63,3 +65,6 @@ If you re-distribute this package on a Cydia repository, be aware that I will no
 Furthermore, ReProvision (and by extension, libProvision as found in `/Shared/`) IS NOT FOR PIRACY. It is intended to allow users to ensure applications signed with a free development certificate remain signed past the usual 7-day window.
 
 Absolutely no warranty or guarantee is provided; the software is provided AS-IS.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FDaddycal69%2FReProvision.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FDaddycal69%2FReProvision?ref=badge_large)
